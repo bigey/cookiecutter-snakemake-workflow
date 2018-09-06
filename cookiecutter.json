@@ -1,8 +1,8 @@
 {
-  "full_name": "Johannes Köster",
-  "email": "johannes.koester@protonmail.com",
-  "username": "johanneskoester",
-  "project_name": "RNA-Seq",
-  "repo_name": "rna-seq",
+  "full_name": "Frédéric Bigey",
+  "email": "frederic.bigey@inra.fr",
+  "username": "bigey",
+  "project_name": "Snakemake workflow name",
+  "repo_name": "Git repository name",
   "min_snakemake_version": "3.12.0"
 }
